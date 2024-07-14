@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dulitha Tharuka Perera
+- 👋 Hi, I’m Dulitha
 - 👀 I’m interested in Data Structures, C++, AI
 - 🌱 I’m currently learning Web/App Development
 - 💞️ I’m looking to collaborate on Web Development Projects
